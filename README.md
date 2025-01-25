@@ -23,15 +23,15 @@ This is a clone of the popular **Plants vs Zombies** game, developed using **C++
    - **Description**: A zombie that flies above the ground.
 
 ## Start screen
-![Start](Screenshots/PVZ.png)
+![Start](Screenshots/PVZ.PNG)
 
 ## Instructions
-![Instructions](Screenshots/instructions.png)
+![Instructions](Screenshots/instructions.PNG)
 
 ## Gameplay and Levels
 
 The game consists of **four levels**, each introducing new challenges, plant types, and zombies. The objective is to defend your garden from approaching zombies by planting different types of plants that have unique abilities.
-![Levels](Screenshots/levels.png)
+![Levels](Screenshots/levels.PNG)
 
 ### Level 1: Beginner's Garden
 
@@ -39,7 +39,7 @@ The game consists of **four levels**, each introducing new challenges, plant typ
 - **Available Plants:**
   - **Sunflower:** Generates sun points to plant other plants.
   - **Peashooter:** Shoots peas to damage zombies.
-![Level 1](Screenshots/l1.png)
+![Level 1](Screenshots/l1.PNG)
 
 ### Level 2: Zombie Outskirts
 
@@ -49,7 +49,7 @@ The game consists of **four levels**, each introducing new challenges, plant typ
   - **Peashooter**
   - **Wall-nut**
   - **Cherry Bomb:** Deals area damage to multiple zombies.
-  ![Level 2](Screenshots/l2.png)
+  ![Level 2](Screenshots/l2.PNG)
 
 ### Level 3: Sunflower field
 
@@ -62,7 +62,7 @@ The game consists of **four levels**, each introducing new challenges, plant typ
   - **Cherry Bomb**
   - **Repeater:** Shoots two peas at once.
   - **Snow Pea:** Shoots ice peas.
-![Level 3](Screenshots/l3.png)
+![Level 3](Screenshots/l3.PNG)
 
 ### Level 4: Foggy Forest
 (This level isn't fully functional)
@@ -78,7 +78,7 @@ The game consists of **four levels**, each introducing new challenges, plant typ
   - **Snow Pea:**
   - **Torch Wood:**
 
-![Level 4](Screenshots/l4.png)
+![Level 4](Screenshots/l4.PNG)
 
 ## Controls
 
